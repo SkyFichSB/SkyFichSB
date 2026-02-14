@@ -1,16 +1,28 @@
-## Hi there 👋
+# Привет! Я SkyFich 👋
 
-<!--
-**SkyFichSB/SkyFichSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="Images/cat.jpeg"
+   width="180" alt="Avatar" style="border-radius: 20%;">
+</p>
 
-Here are some ideas to get you started:
+### Обо мне - 
+Я обучаюсь разработке, не могу похвастаться чем то серъезным, в любом случае, все видно в репозиториях. Пока что интересно поднять уровень Java с около нулевого, так же в процессе изучения JS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  **Current Project:** Система управления торговым центром на **Spring Boot + PostgreSQL**.
+-  **Python:** Знаю базу и принципы ООП, писал скрипты.
+-  **Gamedev:** Имею скромный опыт разработки 2D-игр на **C#** и движке **Unity**.
+-  **Frontend:** В процессе освоения **JavaScript**.
+
+###  Стек технологий
+
+* **Языки:** Java (llvl), Python, C#, JavaScript (learning).
+* **Инструменты:** Git, Maven, PostgreSQL, Swagger, Unity.
+
+---
+
+###  Контакты
+- **Telegram:**
+- **Email:** 
+- **Git:** https://github.com/SkyFichSB
+
+---
